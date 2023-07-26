@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(0, 0, 0);
+}
+#ani{
+    background-color: rgba(252, 6, 6, 0.5); 
+    height: 800px;
+    
+}
+#anir{
+    margin-left:550px ;
+    color: white;
+    /* margin-top: 400px; */
+    transform: translateY(390px);
+    font-size: 70px;
+    
+}
